@@ -27,6 +27,7 @@
   }, {
     "type": "Stegosaurus",
     "bio": "Stegosaurus is a genus of armored dinosaur. ",
+    "img": "imgs/stegosaurus.jpg",
     "info": "Herbivore"
   }, {
     "type": "Spinosaurus",
